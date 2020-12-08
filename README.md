@@ -1,2 +1,2 @@
 # App-Rating-Prediction
-Machine Learning model to predict the google play store app ratings, provided other information's about the app'ss.
+Machine Learning model to predict the google play store app's, based other information's provided about app's.
